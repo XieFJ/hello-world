@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+i'd like to do cloud computing big project called b2c-store.
